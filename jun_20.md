@@ -15,3 +15,6 @@ printf("hello summer!\n");
 
 ### Something to read after the lecture
 example text
+
+### When to resolve question
+by the end of the first week
